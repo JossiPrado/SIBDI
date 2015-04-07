@@ -65,4 +65,4 @@ public PanelTabla getPanelTabla(){
 }//fin del metodo
 
 
-}
+}//fin de la clase
